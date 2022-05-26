@@ -84,6 +84,7 @@ header .title {
 
 .contact a {
     text-decoration: none;
+    vertical-align: middle;
     color: white;
     font-size: 1.1em;
 }
@@ -98,11 +99,12 @@ nav  {
     align-items: center;
     text-transform: uppercase;
     width: 100%;
-    justify-content: center;
+    justify-content: end;
     display: flex;
     background-color: darkblue;
     padding: 10px 0 10px 7px;
-    margin-bottom: 15px;
+    /*margin-bottom: 15px;*/
+    overflow: hidden;
 }
 
 nav a {
@@ -119,13 +121,15 @@ nav a:hover {
 
 /*Summary Styling*/
 #summary {
-    margin-bottom: 15px;
+    padding-bottom: 15px;
+    background-color: #F7F7F7;
 }
 
 /*Skills Styling*/
 #skills {
-    margin-bottom: 15px;
+    padding-bottom: 15px;
     font-size: 1.2em;
+    background-color: #F7F7F7;
 }
 
 .list {
@@ -139,8 +143,9 @@ nav a:hover {
 
 /*Work Experience Styling*/
 #workexp {
-    margin-bottom: 15px;
+    padding-bottom: 15px;
     font-size: 1.2em;
+    background-color: #F7F7F7;
 }
 
 #workexp h4 {
@@ -155,14 +160,16 @@ nav a:hover {
 
 /*Education Styling*/
 #education {
-    margin-bottom: 15px;
+    padding-bottom: 15px;
     font-size: 1.2em;
+    background-color: #F7F7F7;
 }
 
 /*Activities Styling*/
 #activities {
-    margin-bottom: 15px;
+    padding-bottom: 15px;
     font-size: 1.2em;
+    background-color: #F7F7F7;
 }
 
 
