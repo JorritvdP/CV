@@ -94,6 +94,10 @@ header .title {
     font-weight: bold;
 }
 
+.contact a img:hover {
+    box-shadow: ;
+}
+
 /*Navigation Styling */
 nav  {
     align-items: center;
