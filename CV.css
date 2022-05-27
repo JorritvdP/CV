@@ -192,6 +192,15 @@ nav a:hover {
     background-color: #F7F7F7;
 }
 
+#education h4 {
+    width: 100%;
+    font-size: 1.4em;
+}
+
+#education h5 {
+    font-size: 1.1em;
+    font-weight: lighter;
+}
 /*Activities Styling*/
 #activities {
     padding-bottom: 15px;
