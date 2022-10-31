@@ -1,1 +1,1 @@
-# CV Jorrit van de Plaats
+# CV Jorrit van der Plaats
